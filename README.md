@@ -17,6 +17,7 @@ The coffee shop want to create an last 6 month sales report for 2023, so that, o
 ## Project Insight
    -  The Astoria location achieved the highest sales
    -  Sales show a steady upward trend from January to June
+   -  The highest sales occur in the morning
 ## Dashboard
 <img width="1857" height="709" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/f186fdeb-4151-4319-88f0-56d3a6b836a9" />
 
