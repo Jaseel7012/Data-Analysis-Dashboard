@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, Create multiple tables to analyze data. This process involves different stages, including data preprocessing, data cleaning and data visualization
+# Coffee Shop Sales Analysis ( Interactive Dashboard creation using MS Excel)
+## project objectives
+The coffee shop want to create an last 6 month sales report for 2023, so that, owner of the coffee shop can understand their customers and get more sales in 2024 and 2025.
